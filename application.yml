@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: Hruday Edited this property
+foo: "{cipher}0818d4f9cfdf24113aa2b134090222d66f0c25cd547277e60dd9d22d9099d020"
 
 ---
 spring:
